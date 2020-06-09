@@ -1,0 +1,7 @@
+.results {
+  display: none;
+}
+
+#unluckyresults, #luckyresults, #neutralresults {
+  display: none;
+}
